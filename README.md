@@ -13,3 +13,8 @@ NOTE: Before you run the code make sure you have installed boto3 else run the co
 pip install boto3
 ```
 
+## Amazon SES Documentation
+
+```
+https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/ses.html
+```
